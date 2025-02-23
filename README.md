@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 
-**Fabricioops/Fabricioops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some i# Hello, I'm Fabricioops! 👋
+  Hello, I'm Fabricioops! 👋
 
 I'm Fabricioops, a passionate developer with a wide range of skills and a love for building innovative solutions. Welcome to my GitHub profile!
 
