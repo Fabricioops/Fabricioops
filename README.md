@@ -2,7 +2,7 @@
 
 
 
-  Hello, I'm Fabricioops! 👋
+  Hello, I'm Fabricio! 👋
 
 I'm Fabricioops, a passionate developer with a wide range of skills and a love for building innovative solutions. Welcome to my GitHub profile!
 
