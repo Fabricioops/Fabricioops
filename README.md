@@ -8,7 +8,7 @@ I'm Fabricioops, a passionate developer with a wide range of skills and a love f
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** JavaScript,Node, Python, Java.
+- **Languages:** JavaScript,Node,C#.
 - **Web Development:** HTML, CSS.
 - **Database:** MySQL
 - **Tools & Platforms:**  Git, GitHub Actions
